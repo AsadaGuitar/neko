@@ -2,9 +2,6 @@
 
 catsの写経と解説
 
-
-## type classes
-
 ### cats.kenel
 
 - [x] Eq
@@ -37,5 +34,5 @@ catsの写経と解説
 ### cats
 - [ ] SemigroupK
 
-### cats data types
+### cats（data type）
 - [ ] Eval
